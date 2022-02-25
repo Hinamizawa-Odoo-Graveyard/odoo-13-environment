@@ -15,7 +15,7 @@
     'category': 'Profile Management',
     'company': 'SMART-OBC',
 
-    'version': '14.0.0',
+    'version': '13.0.0',
 
     'depends': ['base', 'Odoo School'],
 
